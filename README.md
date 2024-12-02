@@ -22,3 +22,4 @@ Evaluate and compare the efficiency of search algorithms linear search and binar
 ### Qualification to pass
  - [ ] The code should run successfully.
 - [ ]  Write all requirements correctly.
+- [ ]  Complete the two scenarios
