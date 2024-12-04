@@ -5,7 +5,7 @@ This project aims to compare the efficiency of the time and space complexity of 
 
 ### Problem
 
-Evaluate and compare the efficiency of search algorithms linear search and binary search by analyzing their time complexity and space complexity in practical scenarios.
+Evaluate and compare the efficiency of search algorithms, such as linear search and binary search, by analyzing their time and space complexity in practical scenarios.
 
 
 
@@ -20,6 +20,6 @@ Evaluate and compare the efficiency of search algorithms linear search and binar
 
 
 ### Qualification to pass
- - [ ] The code should run successfully.
-- [ ]  Write all requirements correctly.
-- [ ]  Complete the two scenarios
+ - [ ] The code must execute without errors.
+- [ ] Write all requirements correctly.
+- [ ] Both scenarios must be fully completed.
