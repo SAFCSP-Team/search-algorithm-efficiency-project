@@ -1,7 +1,7 @@
 # Search Algorithm Efficiency
 
 ### Objective
-This project aims to compare the efficiency of the time and space complexity of linear search and binary search.
+This project aims to compare the efficiency of the time and space complexity of linear search and binary search Algorithms.
 
 ### Problem
 
