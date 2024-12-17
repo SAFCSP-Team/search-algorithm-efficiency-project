@@ -1,25 +1,25 @@
 # Search Algorithms Efficiency
 
 ### Objective
-This project aims to compare the efficiency of the time and space complexity of linear search and binary search algorithms.
+This project aims to compare the efficiency of linear and binary search algorithms.
 
 ### Problem
 
-Evaluate and compare the efficiency of search algorithms, such as linear search and binary search, by analyzing their time and space complexity in practical scenarios.
+Evaluate and compare the efficiency of linear and binary search, by analyzing their time and space complexity in practical scenarios.
 
 
 
 ### Implementation
 
 - Implement Both Search Algorithms.
-- Create a sorted array and a random array in separate scenarios.
-- Measure the time taken to find elements in both arrays using both search methods.
-- Measure the space taken to find elements in both arrays using both search methods.
+- Create a random array.
+- Measure the time to find the same element using both search methods.
+- Measure the space to find the same element using both search methods.
 - Analyze how the time taken grows with the size of the array.
 - Analyze how the space is taken with the size of the array.
-
+- Is there an enhancement that can be applied to any scenario?
 
 ### Qualification to pass
- - [ ] The code must execute without errors.
+- [ ] The code must execute without errors.
 - [ ] Write all requirements correctly.
 - [ ] Both scenarios must be fully completed.
