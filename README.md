@@ -23,4 +23,4 @@ Evaluate and compare the efficiency of linear and binary search, by analyzing th
 - [ ] The code must execute without errors.
 - [ ] Write all requirements correctly.
 - [ ] Both scenarios must be fully completed.
-- [ ] Submit your project by making a pull request on GitHub and sending the source code via email.
+- [ ] Submit your project by making a pull request on GitHub.
